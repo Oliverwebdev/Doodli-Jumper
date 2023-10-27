@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: #000000;
+}
+
+#board {
+    background-image: url("background1.png");
+    background-size: cover;
+    background-position: center;
+}
+
+ul{
+    color: white;
+    float: right;
+    margin-right: 250px;
+}
